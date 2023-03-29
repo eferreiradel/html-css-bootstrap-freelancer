@@ -1,0 +1,19 @@
+/* * {
+  border: 1px solid black;
+} */
+
+.debug {
+  background-color: red;
+}
+
+.bc__white {
+  background-color: white;
+}
+.bc__mint {
+  background-color: rgb(5, 203, 167);
+}
+
+.bc__gray {
+  color: white;
+  background-color: rgb(41, 67, 104);
+}
