@@ -10,10 +10,18 @@
   background-color: white;
 }
 .bc__mint {
-  background-color: rgb(5, 203, 167);
+  background-color: rgb(43, 198, 201);
 }
 
 .bc__gray {
   color: white;
   background-color: rgb(41, 67, 104);
+}
+i {
+  font-size: x-large;
+}
+input,
+textarea {
+  border: none;
+  border-bottom: 1px solid dimgray;
 }
